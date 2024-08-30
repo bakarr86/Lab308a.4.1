@@ -12,7 +12,7 @@ const getFavouritesBtn = document.getElementById("getFavouritesBtn");
 
 // Step 0: Store your API key here for reference and easy access.
 const API_KEY =
-  "live_gD9KL7fWH23YikQO6cxjJF7CHCn5k17Q21rIkpvNGNrfFbaHv3NArobb7UjLIrnO"; // Replace with your actual API key
+  "live_daU8QthiL5y8BEPVop6VvZUXxrir1XARb9ZzvNjnuE7Pz6MG19sucDjH51kTaCLA"; // Replace with your actual API key
 
 // Set up Axios defaults
 axios.defaults.baseURL = "https://api.thecatapi.com/v1";
